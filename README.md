@@ -15,13 +15,13 @@ Rozvrh kurzu
 | 9     | 2024-11-21          | JSON a API                                                       | [odkaz](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/format-json)                                                                                                                                                                                                      |  |
 | 10    | 2024-11-28          | Obsluha výjimek                                                  | [odkaz](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/vyjimky/chyby-v-programu)                                                                                                                                                                                                              |                                                                                               |
 | 11    | 2024-12-05          | Regulární výrazy                                                 | [odkaz](https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy)                                                                                                                                                                                                 |                                                                                               |
-| 12    | 2024-12-12          | Rezerva                                                          |                                                                                                                                                                                                                                                                                                     |                                                                                               |
+| 12    | 2024-12-12          | Test Driven Development                                                          |                                                                                                                                                                                                                                                                                                     |                                                                                               |
 
 ## Podmínky pro splnění
 
 - Splnění kvízu z každé lekce na min. 70 %. Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou. Kvíz musí být odevzdaný 2 týdny po lekci, kvíz z poslední lekce 1 týden po lekci.
 - Odevzdání dvou domácích úkolů, budou zadané po 6. a 9. lekci, úkol musí být odevzdaný do 2 týdnů.
-- Účast na min. 9 z 12 lekcí.
+- Účast na min. 10 z 12 lekcí.
 
 ### Domácí úkoly
 
