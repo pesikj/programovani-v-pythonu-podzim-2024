@@ -32,3 +32,4 @@ Návod na odevzdávání domáích úkolů je [zde](ukoly.md). Nahrávání kód
 
 - [Řešení příkladů z lekce slicing, metody, moduly](https://github.com/pesikj/da-python-pj23/blob/main/slicing-metody-moduly.ipynb)
 - [Funkce](https://github.com/pesikj/da-python-pj23/blob/main/funkce.ipynb)
+- [Další datové struktury](https://github.com/pesikj/da-python-pp23/blob/main/slovniky.ipynb)
