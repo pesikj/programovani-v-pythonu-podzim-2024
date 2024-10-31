@@ -27,6 +27,8 @@ Rozvrh kurzu
 
 Návod na odevzdávání domáích úkolů je [zde](ukoly.md). Nahrávání kódu na GitHub je stejné jako ve třetí lekci. Nové pro tebe budou části *Přidání kouče/koučky do repozitáře* a *Vytvoření issue*.
 
+- [Zadání úkolu 1](ukol_1.md)
+
 
 ### Řešení příkladů z kodim.cz
 
